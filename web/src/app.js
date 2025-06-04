@@ -1,0 +1,9 @@
+/*
+File: app.js
+Author: Pók László
+Copyright: 2025, Pók László
+Group: Szoft I/N
+Date: 2025-06-04
+Github: https://github.com/poklaszlo/
+Licenc: MIT
+*/
